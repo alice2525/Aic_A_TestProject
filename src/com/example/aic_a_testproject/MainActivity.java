@@ -7,16 +7,24 @@ import android.view.Menu;
 
 
 public class MainActivity extends Activity {
+<<<<<<< HEAD
 	
 	public static final String TAG ="myTag"; 
 
+=======
+private static final String TAG = "TAG";
+	
+>>>>>>> 5fbe7cfbbc78559f955037b6f3c9811137aeb9ab
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 		Log.d(TAG,"(゜∀。)ﾜﾋｬﾋｬﾋｬﾋｬﾋｬﾋｬ");
+<<<<<<< HEAD
 		//俺がガンダムだ！！
 		
+=======
+>>>>>>> 5fbe7cfbbc78559f955037b6f3c9811137aeb9ab
 	}
 
 	@Override
