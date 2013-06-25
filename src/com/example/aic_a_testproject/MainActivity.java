@@ -23,6 +23,7 @@ private static final String TAG = "TAG";
 <<<<<<< HEAD
 		//俺がガンダムだ！！
 		
+		//テスト城
 =======
 >>>>>>> 5fbe7cfbbc78559f955037b6f3c9811137aeb9ab
 	}
